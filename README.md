@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Joseph 👋
+﻿### Hi there, I'm Joseph 👋
 
 🎒 I'm a rising senior at the University of Virginia, studying Computer Science and Data Science
 
