@@ -1,13 +1,13 @@
 
 ## Hi there, I'm Joseph! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a senior at the University of Virginia, studying Computer Science and Data Science
+* 📚 I'm a senior at the University of Virginia, studying Computer Science and Data Science
 
-I’m currently learning Machine Learning and Data Analysis
+* 🌱 I’m currently learning Machine Learning and Data Analysis
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+* How to reach me: [![LinkedIn][2.2]][2] | [📫](sl5nj@virginia.edu)
 
 <!-- Icons -->
 
