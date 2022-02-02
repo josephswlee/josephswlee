@@ -29,3 +29,5 @@
 |4| [Cat Care Application](https://github.com/josephswlee/cat-care)|
 |5| [Algorithms](https://github.com/josephswlee/Algorithm)|
 |6| [Program and Data Representation](https://github.com/josephswlee/Program-and-Data-Representation)|
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephswlee&langs_count=8)](https://github.com/josephswlee)
