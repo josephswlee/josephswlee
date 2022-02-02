@@ -1,4 +1,5 @@
-﻿### Hi there, I'm Joseph
+
+# Hi there, I'm Joseph! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a senior at the University of Virginia, studying Computer Science and Data Science
 
