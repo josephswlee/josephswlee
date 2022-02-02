@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-* How to reach me: [![LinkedIn][2.2]][2] | [📫](mailto:sl5nj@virginia.edu)
+* 👉 How to reach me: [![LinkedIn][2.2]][2] | [📫](mailto:sl5nj@virginia.edu)
 
 <!-- Icons -->
 
