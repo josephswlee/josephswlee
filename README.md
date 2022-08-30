@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Joseph! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* 📚 I'm a senior at the University of Virginia, studying Computer Science and Data Science
+* 📚 I’m a first year graduate student of the Data Science program at the University of Pennsylvania
 
 * 🌱 I’m currently learning Machine Learning and Data Analysis
 
