@@ -3,7 +3,7 @@
 
 * 📚 I’m a first year graduate student of the Data Science program at the University of Pennsylvania
 
-* 🌱 I’m currently learning Machine Learning and Data Analysis
+* 🌱 I’m currently learning Machine Learning and Data Science
 
 <!-- Actual text -->
 
