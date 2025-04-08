@@ -19,15 +19,5 @@
 
 [2]: https://www.linkedin.com/in/lee-sangwoo/
 
-## Current Repositories
-
-| # | Repositories |
-|:---:|:---:|
-|1| [Clustering the Countries with Unsupervised Learning](https://github.com/josephswlee/Clustering-the-Countries-with-Unsupervised-Learning)|
-|2| [Stock Portfolio Simulation](https://github.com/josephswlee/Stock-Portfolio)|
-|3| [Animal Behavior Research Tools](https://github.com/josephswlee/Shin-Lab-Tools)|
-|4| [Algorithms](https://github.com/josephswlee/Algorithm)|
-|5| [Program and Data Representation](https://github.com/josephswlee/Program-and-Data-Representation)|
-
 <!-- ## Github Stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephswlee&langs_count=8)](https://github.com/josephswlee) -->
