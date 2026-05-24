@@ -17,7 +17,7 @@
 <!-- Links to your social media accounts -->
 
 
-[2]: https://www.linkedin.com/in/lee-sangwoo/
+[2]: https://www.linkedin.com/in/lee-josephs/
 
 <!-- ## Github Stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephswlee&langs_count=8)](https://github.com/josephswlee) -->
