@@ -1,13 +1,24 @@
 
 ## Hi there, I'm Joseph! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* 📚 I’m a second year graduate student in the Data Science program at the University of Pennsylvania
-
-* 🌱 I’m currently learning Machine Learning and Data Science
-
 <!-- Actual text -->
 
-* 👉 How to reach me: [![LinkedIn][2.2]][2] | [📫](mailto:joeslee@seas.upenn.edu)
+AI/ML Engineer with a focus on GenAI, agentic systems, and LLM infrastructure.
+
+- 🤖 AI/ML Engineer focused on GenAI and agentic systems
+- 🔧 Interested in LLM infrastructure, RAG pipelines, and agent tooling
+- 🤝 Open to collaborating on AI/ML side projects and open source
+
+- 👉 How to reach me: [![LinkedIn][2.2]][2] | [📫](mailto:josephslee28@gmail.com)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
+
 
 <!-- Icons -->
 
