@@ -9,7 +9,7 @@ AI/ML Engineer with a focus on GenAI, agentic systems, and LLM infrastructure.
 - 🔧 Interested in LLM infrastructure, RAG pipelines, and agent tooling
 - 🤝 Open to collaborating on AI/ML side projects and open source
 
-- 👉 How to reach me: [![LinkedIn][2.2]][2] | [📫](mailto:josephslee28@gmail.com)
+- 👉 How to reach me: [![LinkedIn][2.2]][2] | [📫](mailto:josephslee28@gmail.com) | [🌐 website](https://yoursite.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
